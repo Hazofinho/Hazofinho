@@ -1,83 +1,124 @@
-<h1 align="center">Hi 👋, I'm Arvin Kunalić</h1>
-<h3 align="center">An aspiring Electrical & Computer Engineering Undergraduate</h3>
+<!-- Title and GIF -->
+# 👋 Arvin Kunalic
 
-<h3 align="center">About Me</h4>
-<p align="center"> 
-    I am passionate about the intersection of hardware and software, particularly in areas like AI, embedded systems, and automation. My goal is to contribute to innovative projects that solve real-world problems. 
-</p>
+**`Electrical & Computer Engineer Undergraduate Student`**
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=hazofinho&label=Profile%20views&color=33d17a&style=flat-square" alt="hazofinho" />
-</p>
+I am passionate about the intersection of hardware and software, particularly in areas like AI, embedded systems, and automation. My goal is to contribute to innovative projects that solve real-world problems.
 
-- 🔭 I’m currently working on a **Deep Learning Project**
+<h4> About Me </h4>
 
-- 🌱 I’m currently attending the courses: **Deep Learning [UMU-54810] & Embedded Systems [IS1300]**
+-  🏫 Currently attending: *Royal Institute of Technology* In Stockholm, Sweden 
+- 📚 At the moment, attending courses: **Deep Learning [UMU-54810] & Embedded Systems [IS1300]**
+- 🔭 I’m currently working on a **Deep Learning** Project
+- 📌 All of my projects are available at:
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hazofinho?tab=repositories](https://github.com/Hazofinho?tab=repositories)
-
-- 📄 Know about my experiences [www.linkedin.com/in/arvin-kunalic-6a4546205](www.linkedin.com/in/arvin-kunalic-6a4546205)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/arvin kunalic" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvin kunalic" height="30" width="40" />
+<p> 
+    <a href="https://github.com/Hazofinho?tab=repositories">
+        <img alt="GitHub"
+        src="https://img.shields.io/badge/My_GitHub-181717?style=for-the-badge&logo=github&logoColor=White"/>
+    </a>
+    <a href="#" >
+        <img alt="Profile Views" 
+        src="https://komarev.com/ghpvc/?username=hazofinho&label=Profile_Views&abbreviated=true&style=for-the-badge"/>
     </a>
 </p>
- 
-<h3 align="center">Languages and Tools</h3>
-    <table align="center">
-        <tr>
-            <td align="center"><strong>Programming Languages</strong></td>
-            <td align="center"><strong>ML & Analytics Tools</strong></td>
-            <td align="center"><strong>Embedded Systems</strong></td>
-            <td align="center"><strong>Version Control & OS</strong></td>   
-        </tr>
-        <tr>
-            <td align="center"> 
-                <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-                </a>
-                <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-                </a>
-                <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-                </a>
-                <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-                </a>
-                <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-                </a>
-                <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-                </a>
-                <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-                    <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="40" height="40">
-                </a>
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-                </a>
-            </td>
-        </tr>
-     </table>
+<p align="center" href="#">
+    <img alt="Solder" style="width: 35%" 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF5YmUzd3V3MGk4N3FtNjJjeDJjOGs1Ymp1aGRnNjZhcDh0OWlsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elDC4UUuvx7eFoUFUl/giphy.webp">
+</p>
 
-![Hazofinho's Stats](https://github-readme-stats.vercel.app/api?username=Hazofinho&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+---
 
-![Hazofinho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazofinho&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+## 🥂 Connect with me
+To connect with me, you can find my professional profile and contact details primarily on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas!
+
+<a href="https://www.linkedin.com/in/arvin-k-6a4546205">
+    <img alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+## 💻 Languages & Tools
+<h5> Programming Languages </h5>
+<a href="https://www.cprogramming.com/">
+    <img alt="C" 
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</a>
+
+<a href="https://www.python.org">
+    <img alt="Python" 
+    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+</a>
+
+<a href="https://www.latex-project.org/">
+    <img alt="LaTeX" 
+    src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
+</a>
+<!-- Insert Java, HTML, CSS -->
+
+<h5> ML & Analytics Tools </h5>
+<a href="https://www.tensorflow.org">
+    <img alt="TensorFlow" 
+    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+    <img alt="Pandas" 
+    src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+<a href="https://keras.io/">
+    <img alt="Keras" 
+    src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/>
+</a>
+
+<h5> Embedded Systems </h5>
+<a href="https://www.cprogramming.com/">
+    <img alt="C" 
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</a> 
+
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html">
+    <img alt="STM32CubeIDE" 
+    src="https://img.shields.io/badge/STM32Cube_IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logocolor=white"/>
+</a>
+
+<a href="https://www.arduino.cc/">
+    <img alt="Arduino" 
+    src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</a>
+
+<h5> Version Control & OS </h5>
+<a href="https://www.linux.org/">
+    <img alt="Linux" 
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</a>
+
+<a href="https://fedoraproject.org/">
+    <img alt="Fedora" 
+    src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/">
+    <img alt="Bash Script"
+    src="https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white-green"/>
+</a>
+
+<a href="https://git-scm.com/">
+    <img alt="Git" 
+    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</a<br></br>
+
+---
+
+## 📈 Stats
+
+<p>
+    <img alt="My Stats" width="400" 
+    src="https://github-readme-stats.vercel.app/api?username=Hazofinho&theme=highcontrast&show_icons=true&hide_border=true&count_private=true">
+    <img alt="My Top Languages" width="300" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazofinho&theme=highcontrast&show_icons=true&hide_border=true&layout=compact">
+</p>
+
+---
