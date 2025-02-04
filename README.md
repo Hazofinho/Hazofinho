@@ -8,8 +8,8 @@ I am passionate about the intersection of hardware and software, particularly in
 <h4> About Me </h4>
 
 -  🏫 Currently attending: *Royal Institute of Technology* In Stockholm, Sweden 
-- 📚 At the moment, attending courses: **Deep Learning [UMU-54810] & Embedded Systems [IS1300]**
-- 🔭 I’m currently working on a **Deep Learning** Project
+- 📚 At the moment, attending courses: **Analog Electronics [IE1202] & Networks and Communication [IK1203]**
+- 🔭 I’m currently studying..
 - 📌 All of my projects are available at:
 
 <p> 
@@ -59,7 +59,7 @@ To connect with me, you can find my professional profile and contact details pri
 
 <h5> ML & Analytics Tools </h5>
 <a href="https://www.tensorflow.org">
-    <img alt="TensorFlow" 
+    <img alt="TensorFlow"
     src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
 
