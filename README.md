@@ -95,20 +95,25 @@ To connect with me, you can find my professional profile and contact details pri
     src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white"/>
 <a/>
 
+<a href="https://www.raspberrypi.com/">
+    <img alt="RPi"
+    src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+<a/>
+
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html">
     <img alt="STM32CubeIDE" 
     src="https://img.shields.io/badge/STM32Cube_IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logocolor=white"/>
 </a>
 
 #### Version Control & OS 
-<a href="https://fedoraproject.org/">
-    <img alt="Fedora" 
-        src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+<a href="https://archlinux.org/">
+    <img alt="Arch"
+    src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </a>
 
 <a href="https://git-scm.com/">
-    <img alt="Git" 
-        src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Git"
+    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </a
 
 <a href="https://www.linux.org/">
