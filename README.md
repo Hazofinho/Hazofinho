@@ -1,16 +1,17 @@
 <!-- Title and GIF -->
 # 👋 Arvin Kunalic
 
-
 **`Electrical & Computer Engineer Undergraduate Student`**
 
 I am passionate about the intersection of hardware and software, particularly in areas like AI, embedded systems, and automation. My goal is to contribute to innovative projects that solve real-world problems.
 
 ![Views](https://komarev.com/ghpvc/?username=hazofinho&label=Profile_Views&abbreviated=true&style=for-the-badge)
+
 #### About Me
 -  🏫 Currently attending: *Royal Institute of Technology* In Stockholm, Sweden 
-- 📚 At the moment, attending courses: **Electronic Product Development [IE1332] & Projects and Project Methods [II1302]**
-- 🔭 I’m currently working on a custom ESP32 PCB..
+<!-- 📚 At the moment, attending courses:  -->
+- 📚 At the moment, not attending any courses due to the summer break
+- 🔭 I’m currently not working on any specific project
 - 📌 All of my projects are available at:
 
     <a href="https://github.com/Hazofinho?tab=repositories">
@@ -26,7 +27,7 @@ I am passionate about the intersection of hardware and software, particularly in
 ---
 
 ## 🥂 Connect with me
-To connect with me, you can find my professional profile and contact details primarily on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas!
+To connect with me, you can find my professional profile and contact details primarily on **LinkedIn**. Feel free to reach out for collaborations, opportunities, or just to exchange ideas!
 
 <a href="https://www.linkedin.com/in/arvin-k-6a4546205">
     <img alt="LinkedIn"
