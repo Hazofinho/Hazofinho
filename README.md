@@ -10,7 +10,7 @@ I am passionate about the intersection of hardware and software, particularly in
 #### About Me
 -  🏫 Currently attending: *Royal Institute of Technology* In Stockholm, Sweden 
 <!-- 📚 At the moment, attending courses:  -->
-- 📚 At the moment, not attending any courses due to the summer break
+- ⛱️ At the moment, not attending any courses due to the summer break
 - 🔭 I’m currently not working on any specific project
 - 📌 All of my projects are available at:
 
