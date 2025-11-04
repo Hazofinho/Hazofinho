@@ -10,8 +10,8 @@ I am passionate about the intersection of hardware and software, particularly in
 #### About Me
 -  🏫 Currently attending: *Royal Institute of Technology* In Stockholm, Sweden 
 <!-- 📚 At the moment, attending courses:  -->
-- ⛱️ At the moment, attending courses: **Mathematical Statistics [IX1501] & Digital Systems Design using Hardware Description Languages [IL1332]**
-- 🔭 I’m currently working on a PCB, for a personal project.
+- ⛱️ At the moment, attending courses: **Signal Processing [II1303]**
+<!-- - 🔭 I’m currently working on a PCB, for a personal project. -->
 - 📌 All of my projects are available at:
 
     <a href="https://github.com/Hazofinho?tab=repositories">
@@ -46,7 +46,7 @@ To connect with me, you can find my professional profile and contact details pri
 ### Programming Languages 
 <a href="https://www.gnu.org/software/bash/">
     <img alt="Bash Script"
-        src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+        src="https://img.shields.io/badge/bash_script-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </a>
 
 <a href="https://www.cprogramming.com/">
@@ -56,7 +56,7 @@ To connect with me, you can find my professional profile and contact details pri
 
 <a href="https://www.java.com/en/">
     <img alt="Java"
-    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
 
 <a href="https://www.python.org">
@@ -104,6 +104,12 @@ To connect with me, you can find my professional profile and contact details pri
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html">
     <img alt="STM32CubeIDE" 
     src="https://img.shields.io/badge/STM32Cube_IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logocolor=white"/>
+</a>
+
+#### Hardware Description Languages (HDL)
+<a href="https://en.wikipedia.org/wiki/SystemVerilog">
+    <img alt="SystemVerilog"
+    src="https://img.shields.io/badge/SystemVerilog-%23121011?style=for-the-badge&logo=vonage&logoColor=white"/>
 </a>
 
 #### Version Control & OS 
