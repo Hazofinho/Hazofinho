@@ -9,8 +9,8 @@ I am passionate about the intersection of hardware and software, particularly in
 
 #### About Me
 -  🏫 Currently attending: *Royal Institute of Technology* In Stockholm, Sweden 
-<!-- 📚 At the moment, attending courses:  -->
-- ⛱️ At the moment, attending courses: **Signal Processing [II1303]**
+<!-- ⛱️ At the moment, attending courses:  -->
+- 📚 At the moment, attending courses: **Network and Communication** and **Analog Electronics**
 <!-- - 🔭 I’m currently working on a PCB, for a personal project. -->
 - 📌 All of my projects are available at:
 
@@ -64,6 +64,23 @@ To connect with me, you can find my professional profile and contact details pri
     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </a>
 
+<a href="https://en.wikipedia.org/wiki/SystemVerilog">
+    <img alt="SystemVerilog"
+    src="https://img.shields.io/badge/SystemVerilog-001100?style=for-the-badge&logo=vonage&logoColor=white"/>
+</a>
+
+#### CAD
+<a href="https://www.autodesk.com/se/products/fusion-360/overview">
+    <img alt="Fusion 360"
+        src="https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</a>
+
+<a href="https://www.kicad.org/">
+    <img alt="KiCad"
+        src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+</a>
+
+
 #### ML & Analytics Tools 
 <a href="https://keras.io/">
     <img alt="Keras" 
@@ -78,6 +95,11 @@ To connect with me, you can find my professional profile and contact details pri
 <a href="https://www.tensorflow.org">
     <img alt="TensorFlow"
     src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://matlab.mathworks.com/">
+    <img alt="MATLAB"
+    src="https://img.shields.io/badge/MATLAB-1679FA?style=for-the-badge"/>
 </a>
 
 #### Embedded Systems 
@@ -106,16 +128,15 @@ To connect with me, you can find my professional profile and contact details pri
     src="https://img.shields.io/badge/STM32Cube_IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logocolor=white"/>
 </a>
 
-#### Hardware Description Languages (HDL)
-<a href="https://en.wikipedia.org/wiki/SystemVerilog">
-    <img alt="SystemVerilog"
-    src="https://img.shields.io/badge/SystemVerilog-%23121011?style=for-the-badge&logo=vonage&logoColor=white"/>
-</a>
-
 #### Version Control & OS 
 <a href="https://archlinux.org/">
     <img alt="Arch"
     src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+</a>
+
+<a href="https://archlinux.org/">
+    <img alt="Fedora"
+    src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 </a>
 
 <a href="https://git-scm.com/">
