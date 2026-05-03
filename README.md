@@ -7,11 +7,18 @@ I am passionate about the intersection of hardware and software, particularly in
 
 ![Views](https://komarev.com/ghpvc/?username=hazofinho&label=Profile_Views&abbreviated=true&style=for-the-badge)
 
-#### About Me
--  🏫 Currently attending: *Royal Institute of Technology* In Stockholm, Sweden 
+---
+
+### About Me
+
+- 🏫 Currently attending: *Royal Institute of Technology* In Stockholm, Sweden
+
 <!-- ⛱️ At the moment, attending courses:  -->
-- 📚 At the moment, attending courses: **Network and Communication** and **Analog Electronics**
+
+- 📚 At the moment, attending course: **Special theory of relativity [F0044T]**, *Luleå Tekniska Universitet*
+
 <!-- - 🔭 I’m currently working on a PCB, for a personal project. -->
+
 - 📌 All of my projects are available at:
 
     <a href="https://github.com/Hazofinho?tab=repositories">
@@ -20,14 +27,15 @@ I am passionate about the intersection of hardware and software, particularly in
     </a>
 
 <p align="center" href="#">
-    <img alt="Solder" style="width: 35%" 
+    <img alt="Solder" style="width: 35%"
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF5YmUzd3V3MGk4N3FtNjJjeDJjOGs1Ymp1aGRnNjZhcDh0OWlsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elDC4UUuvx7eFoUFUl/giphy.webp">
 </p>
 
 ---
 
-## 🥂 Connect with me
-To connect with me, you can find my professional profile and contact details primarily on **LinkedIn**. Feel free to reach out for collaborations, opportunities, or just to exchange ideas!
+### 🥂 Connect with me
+
+I'm a curious person who's interested in just about anything. To connect with me, feel free to reach out to me on **LinkedIn**. Don't hesitate to reach out for collaborations, opportunities, or just to exchange ideas!
 
 <a href="https://www.linkedin.com/in/arvin-k-6a4546205">
     <img alt="LinkedIn"
@@ -36,21 +44,26 @@ To connect with me, you can find my professional profile and contact details pri
 
 ---
 
-## ⚙️ Languages & Tools
-###### My Preffered Development Environment  
+### ⚙️ Languages & Tools
+
+##### My Preffered IDE
+
 <a href="https://neovim.io/">
     <img alt="Vim/Nvim"
     src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </a>
 
-### Programming Languages 
+---
+
+#### Programming Languages
+
 <a href="https://www.gnu.org/software/bash/">
     <img alt="Bash Script"
         src="https://img.shields.io/badge/bash_script-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </a>
 
 <a href="https://www.cprogramming.com/">
-    <img alt="C" 
+    <img alt="C"
     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
 
@@ -60,7 +73,7 @@ To connect with me, you can find my professional profile and contact details pri
 </a>
 
 <a href="https://www.python.org">
-    <img alt="Python" 
+    <img alt="Python"
     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </a>
 
@@ -69,26 +82,17 @@ To connect with me, you can find my professional profile and contact details pri
     src="https://img.shields.io/badge/SystemVerilog-001100?style=for-the-badge&logo=vonage&logoColor=white"/>
 </a>
 
-#### CAD
-<a href="https://www.autodesk.com/se/products/fusion-360/overview">
-    <img alt="Fusion 360"
-        src="https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.kicad.org/">
-    <img alt="KiCad"
-        src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
-</a>
+#### ML & Analytics Tools
 
-
-#### ML & Analytics Tools 
 <a href="https://keras.io/">
-    <img alt="Keras" 
+    <img alt="Keras"
         src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/>
 </a>
 
 <a href="https://pandas.pydata.org/">
-    <img alt="Pandas" 
+    <img alt="Pandas"
         src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 </a>
 
@@ -102,16 +106,19 @@ To connect with me, you can find my professional profile and contact details pri
     src="https://img.shields.io/badge/MATLAB-1679FA?style=for-the-badge"/>
 </a>
 
-#### Embedded Systems 
+---
+
+#### Embedded Systems
+
 <a href="https://www.arduino.cc/">
-    <img alt="Arduino" 
+    <img alt="Arduino"
     src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </a>
 
 <a href="https://www.cprogramming.com/">
-    <img alt="C" 
+    <img alt="C"
     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</a> 
+</a>
 
 <a href="https://www.espressif.com/">
     <img alt="Espressif"
@@ -124,11 +131,28 @@ To connect with me, you can find my professional profile and contact details pri
 <a/>
 
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html">
-    <img alt="STM32CubeIDE" 
+    <img alt="STM32CubeIDE"
     src="https://img.shields.io/badge/STM32Cube_IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logocolor=white"/>
 </a>
 
-#### Version Control & OS 
+---
+
+#### CAD
+
+<a href="https://www.autodesk.com/se/products/fusion-360/overview">
+    <img alt="Fusion 360"
+        src="https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</a>
+
+<a href="https://www.kicad.org/">
+    <img alt="KiCad"
+        src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+</a>
+
+---
+
+#### Version Control & OS
+
 <a href="https://archlinux.org/">
     <img alt="Arch"
     src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -145,30 +169,36 @@ To connect with me, you can find my professional profile and contact details pri
 </a
 
 <a href="https://www.linux.org/">
-    <img alt="Linux" 
+    <img alt="Linux"
     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </a>
 
+---
+
 #### Misc
+
 <a href="https://www.latex-project.org/">
-    <img alt="LaTeX" 
+    <img alt="LaTeX"
     src="https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Markdown">
-    <img alt="Markdown" 
+    <img alt="Markdown"
     src="https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </a>
 
 ---
 
-## 📈 Stats
+<!-- ## 📈 Stats -->
 
-<p>
-    <img alt="My Stats" width="400" 
-    src="https://github-readme-stats.vercel.app/api?username=Hazofinho&theme=highcontrast&show_icons=true&hide_border=true&count_private=true">
-    <img alt="My Top Languages" width="300" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazofinho&theme=highcontrast&show_icons=true&hide_border=true&layout=compact">
-</p>
+<!-- 
+  Options:
+    - Hiding stats: &hide=stars,commits,prs,issues,contribs 
+    - Showing stats: &show=reviews,discussions_started,discussions_answered, prs_merged,prs_merged_percentage
+    - Misc: &show_icons=true, &commits_year=YYYY, &theme=THEME_NAME
+    - Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
----
+-->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazofinho)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- --- -->
